@@ -1,0 +1,9 @@
+.env
+CREDENTIALS.md
+venv/
+__pycache__/
+*.pyc
+data/*.duckdb
+.DS_Store
+.pytest_cache/
+logs/

@@ -1,0 +1,19 @@
+{
+  "ticker": "TSLA",
+  "cashtag": "$TSLA",
+  "keywords": null,
+  "lookback_days": 180,
+  "bar_size": "1h",
+  "apify_actor_id": "apidojo/tweet-scraper",
+  "n_posts_scraped": 10,
+  "n_price_bars": 1286,
+  "n_news_items": 15,
+  "horizons": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}
